@@ -1,7 +1,7 @@
 Package: countland
 Title: Analysis of Biological Count Data, Especially from Single-Cell
         RNA-Seq
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Church", "Samuel H.", , "samuelhchurch@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-8451-103X"))
@@ -26,14 +26,16 @@ Description: A set of functions for applying a
     their own purposes. 
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.1.2
+RoxygenNote: 7.3.0
+URL: https://github.com/shchurch/countland
+BugReports: https://github.com/shchurch/countland/issues
 Imports: methods, rlang, Matrix, ggplot2
 Suggests: tidyverse, viridis, gridExtra, igraph, RSpectra, matrixTests,
         rdist, stats, Seurat, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-08-15 17:21:01 UTC; samuelchurch
+Packaged: 2024-02-01 17:48:49 UTC; samuelchurch
 Author: Church Samuel H. [aut, cre] (<https://orcid.org/0000-0002-8451-103X>)
 Maintainer: Church Samuel H. <samuelhchurch@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-08-17 06:40:06 UTC
+Date/Publication: 2024-02-01 18:00:02 UTC

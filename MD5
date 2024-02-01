@@ -1,12 +1,13 @@
-3a582aaeed94bec4195f36a4accf9e93 *DESCRIPTION
+98022d6762d38ec4360d50238ecd1a38 *DESCRIPTION
 daa8d7768b44071634f8add17b306484 *LICENSE
 c6dba35f600676910afadbc7b20cdc87 *NAMESPACE
+fec77cd16f02cae532009a66089c34c7 *NEWS.md
 5df8b1d93e6be0740ad1daa8a606d482 *R/IMA.R
 6977454ca0df98480341db08ae8e4232 *R/countland.R
 0f7e5c19cfa23454d9520a0bbbaebdda *R/countland_IMA.R
 da097fba77b3c10ee098db6c951a1b1d *R/countland_cluster.R
 d943a42677b71a24e6656a0b9e3896b3 *R/countland_dot.R
-f24666f00c904af438691136fa68dc73 *R/countland_embed.R
+84fa75f393fdc05c87589f316bd77208 *R/countland_embed.R
 1dc699c984666299491c17519bff3265 *R/countland_marker.R
 76d86a40e1c34d010d8a8b468a0bda28 *R/countland_score.R
 9e2bdd1134f961f65656e26a37f79d41 *R/countland_shared_counts.R
